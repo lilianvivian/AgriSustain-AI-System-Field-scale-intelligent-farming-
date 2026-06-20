@@ -1,0 +1,6 @@
+*.zip
+*.tar.gz
+*.pt
+*.onnx
+data/
+saved_models/
